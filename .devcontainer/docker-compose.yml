@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  front:
+    hostname: ${PROJECT_NAME}_front
+    container_name: devcontainer
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/workspace:cached
+    ports:
+      - "3000:3000"
+    tty: true

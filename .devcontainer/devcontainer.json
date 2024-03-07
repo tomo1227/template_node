@@ -1,9 +1,9 @@
 {
-    "name": "node_sample",
+    "name": "node-template",
     "dockerComposeFile": [
         "docker-compose.yml"
     ],
-    "service": "front",
+    "service": "devcontainer",
     "workspaceFolder": "/workspace",
     "features": {
     },

@@ -1,4 +1,4 @@
-# #  ~/.gitconfigの設定
+#  ~/.gitconfigの設定
 echo "start to copy local ~/.gitconfig"
 git config --global --add safe.directory $1
 

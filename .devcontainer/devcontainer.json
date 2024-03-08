@@ -19,13 +19,11 @@
                     "editorStickyScroll.background": "#00708D",
                     "editorStickyScrollHover.background": "#59A2B5"
                 },
-                "stylelint.validate": ["css", "scss"],
-                "scss.validate": false,
+                "stylelint.validate": ["css"],
                 "css.validate": false,
-                "editor.formatOnSave": true,
                 "editor.codeActionsOnSave": {
-                    "source.fixAll.eslint": true,
-                    "source.fixAll.stylelint": true
+                    "source.fixAll.eslint": "explicit",
+                    "source.fixAll.stylelint": "explicit"
                 },
                 "typescript.preferences.importModuleSpecifier": "non-relative",
                 "[typescriptreact]": {
@@ -39,18 +37,14 @@
                 "ms-vscode.live-server",
                 "dbaeumer.vscode-eslint",
                 "stylelint.vscode-stylelint",
-                "Syler.sass-indented",
                 "esbenp.prettier-vscode",
-                "ms-python.python",
                 "streetsidesoftware.code-spell-checker",
                 "naumovs.color-highlight",
                 "burkeholland.simple-react-snippets",
                 "formulahendry.auto-rename-tag",
                 "MariusAlchimavicius.json-to-ts",
-                "dsznajder.es7-react-js-snippets",
                 "styled-components.vscode-styled-components",
                 "Gruntfuggly.todo-tree",
-                "42Crunch.vscode-openapi", // openapi
                 "GitHub.vscode-pull-request-github", // git graph
                 "mhutchie.git-graph", // git graph
                 "seatonjiang.gitmoji-vscode",

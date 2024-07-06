@@ -1,6 +1,8 @@
 # セルフチェック
-- [ ] [PRガイドライン](https://github.com/tomo1227/template_golang/blame/main/README.md#pull-request-%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)を守っている
+
+- [ ] [PRガイドライン](README.md#pull-request-ガイドライン)を守っている
 - [ ] ローカルでビルド、テストが通っている
+- [ ] ドキュメントに沿って実装できている
 - [ ] ドキュメント化ができている
 
 # 目的

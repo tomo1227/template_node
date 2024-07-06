@@ -1,8 +1,8 @@
 # template_node
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![codecov](https://codecov.io/gh/tomo1227/template_node/graph/badge.svg?token=MXPNMVUCYB)](https://codecov.io/gh/tomo1227/template_node)
-
+[![CI](https://github.com/tomo1227/template_node/actions/workflows/ci.yml/badge.svg)](https://github.com/tomo1227/template_node/actions/workflows/ci.yml) [![CodeQL](https://github.com/tomo1227/template_node/actions/workflows/code_ql.yml/badge.svg)](https://github.com/tomo1227/template_node/actions/workflows/code_ql.yml)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 Node.js の Template ブランチ
 
 # Usage
